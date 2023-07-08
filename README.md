@@ -1,5 +1,4 @@
 Dự án cinema mode by Nguyễn Viết Nam
-hehe
 
 # react-movie
 
