@@ -1,6 +1,6 @@
 # Mở đầu
 
-Dự án cinema mode by Nguyễn Viết Nam
+Dự án cinema made by Nguyễn Viết Nam
 
 # react-movie
 
