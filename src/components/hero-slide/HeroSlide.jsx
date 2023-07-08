@@ -119,7 +119,7 @@ const HeroSlideItem = (props) => {
                                 ? apiConfig.w500Image(item.poster_path)
                                 : errorImg
                         }
-                        alt=""
+                        alt="poster"
                     />
                 </div>
             </div>
